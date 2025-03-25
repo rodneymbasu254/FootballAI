@@ -1,2 +1,2 @@
 # FootballAI
-A football AI application
+ A football  AI model
